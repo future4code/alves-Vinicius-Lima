@@ -20,8 +20,8 @@ function retornaArrayOrdenado(array) {
 
 // EXERCÍCIO 04
 function retornaNumerosPares(array) {
-  
-}
+   return {...array, array: array%2===0}
+ }
 
 // EXERCÍCIO 05
 function retornaNumerosParesElevadosADois(array) {
@@ -30,9 +30,15 @@ function retornaNumerosParesElevadosADois(array) {
 
 // EXERCÍCIO 06
 function retornaMaiorNumero(array) {
-  
-}
+   
+   let maior = -Infinity
+   for (let numero of array){
+          if(numero > maior){
+              maior = numero
+          }}
+         }
 
+         
 // EXERCÍCIO 07
 function retornaObjetoEntreDoisNumeros(num1, num2) {
 
