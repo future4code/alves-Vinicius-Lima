@@ -5,13 +5,12 @@
 
 // EXERCÍCIO 01
 function retornaTamanhoArray(array) {
-   const numeros = [1,2,6,8,12,60]
-   return numeros.length
+   return array.length
 }
 
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
-  
+  return array.reverse()
 }
 
 // EXERCÍCIO 03
