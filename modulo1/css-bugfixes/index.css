@@ -138,6 +138,13 @@ td button {
     width: 35px;
 }
 
+.texto{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 3px;
+}
+
 .container-do-search {
     margin-top: 20px;
     height: 100px;
