@@ -126,6 +126,14 @@ td button {
     color: black;
 }
 
+.botao:hover{
+    background-color: #a19149;
+}
+
+.botao:active{
+    color: white;
+}
+
 #lupa{
     width: 35px;
 }
