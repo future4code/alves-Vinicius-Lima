@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 //Exercícios de interpretação de código
 
 // 1 - Leia o código abaixo
@@ -230,11 +232,31 @@
 
 
 
+>>>>>>> 9bdbaac5e7fd7765436d3a4f8e4efccc5d094264
 
 
 
 
+<<<<<<< HEAD
+function checaNumeroPrimo(n) {
+    let divisores = 0
+    
+    for (let i = 1; i <= n; i++)
+    if (n % i == 0) {
+    divisores++;
+    }
+    
+    if (divisores == 2){
+    return 'É primo';
+    } else {
+    return 'Não é primo';
+    }
+    }
 
+checaNumeroPrimo()
+=======
+
+>>>>>>> 9bdbaac5e7fd7765436d3a4f8e4efccc5d094264
 
 
 

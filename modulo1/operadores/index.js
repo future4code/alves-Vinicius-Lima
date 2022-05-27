@@ -176,3 +176,27 @@
 // let divisivel2 = n2 % n1 ==0
 // console.log(divisivel2)
 
+
+const valorMedida = (num1,num2) {
+         let resultado= num1 * num2
+        console.log("A área tem",resultado,"cm")
+}
+
+valorMedida(5*2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
