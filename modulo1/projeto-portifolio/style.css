@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+
+img{
+    padding-left: 250px;
+}
+
+p{
+    color: orange;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:aliceblue;
+    margin-left: 600px;
+    margin-right: 600px;
+    position: relative;
+    bottom: 110px;
+}
+
+a{
+    color: orange;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position: relative;
+    left: 1000px;
+    bottom: 200px;
+}
+a:hover{
+background-color: orange;
+color: white;
+}
+a:active{
+background-color:white;
+color: black;
+}
+
+.projetos{
+    color: orange;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position: relative;
+    left: 240px;
+    bottom: 220px;
+}
+
+.projetos:hover{
+    background-color: orange;
+    color: white;
+}
+.projetos:active{
+    background-color:white;
+    color: black;
+}
+
+/* Acima é a pagina PRINCIPAL. */
+
+
+.sobre-mim{
+    color: orange;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position: relative;
+    left: 240px;
+    bottom: 220px;
+}
+
+.sobre-mim:hover{
+    background-color: orange;
+    color: white;
+}
+.sobre-mim:active{
+    background-color:white;
+    color: black;
+}
+
+.projetos-sobre{
+    color: orange;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position: relative;
+    left: 900px;
+    bottom: 220px;
+}
+
+.projetos-sobre:hover{
+    background-color: orange;
+    color: white;
+    }
+.projetos-sobre:active{
+    background-color:white;
+    color: black;
+    }
+
+.foto{
+    width: 400px;
+    position:absolute;
+    top: 300px;
+    right: 800px;
+}    
+
+.tabela{
+    color: white;
+    position: relative;
+    left: 600px;
+}
+
+.labenu{
+    position:absolute;
+    bottom: 0px;
+    left: 100px;
+    margin-right: 40px;
+    width: 50px;
+    
+}
+
+.texto-labenu{
+    position: relative;
+    bottom: 10px;
+    margin-left: 650px;
+}
+
+/* Acima é a pagina SOBRE-MIM */
+
+.inicial-P{
+    color: orange;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 150px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position: relative;
+    left: 240px;
+    bottom: 220px;
+}
+.inicial-P:hover{
+    background-color: orange;
+    color: white;
+}
+.inicial-P:active{
+    background-color:white;
+    color: black;
+}
+
+.projeto-01{
+    width: 500px;
+    position: absolute;
+    top: 300px;
+    right: 800px;
+}
+
+.p1{
+    position: relative;
+    bottom: 10px;
+    margin-left: 680px;
+}
+
+
+.link-projeto-01{
+    position: relative;
+    bottom: 10px;
+    margin-left: 680px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
