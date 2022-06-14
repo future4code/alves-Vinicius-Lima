@@ -1,0 +1,17 @@
+.App {
+  display:inline;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+  color: black;
+  background-color: darkgray;
+}
+
+input{
+  border-color: black;
+  border-width: 5px;
+  border-style:double;
+  margin: 3px;
+}
