@@ -1,6 +1,7 @@
 import React from 'react'
 import TelaCadastro from './Components/telaCadastro'
 import TelaListaUsuarios from './Components/telaListaUsuarios'
+import {GlobalStyle} from './Global'
 
 export default class App extends React.Component {
 
@@ -31,6 +32,7 @@ export default class App extends React.Component {
   render(){
     return (
       <div> 
+        <GlobalStyle/>
         {this.escolheTela()}
         
       </div>
