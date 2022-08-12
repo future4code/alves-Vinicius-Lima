@@ -1,0 +1,22 @@
+{
+  "name": "projeto-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-ex1": "tsc && node build/exercicio-1/index.js",
+    "start-ex2": "tsc && node build/exercicio-2/index.js",
+    "start-ex3": "tsc && node build/exercicio-3/index.js",
+    "start-ex4": "tsc && node build/exercicio-4/index.js",
+    "start-ex5": "tsc && node build/exercicio-5/index.js",
+    "start-ex6": "tsc && node build/exercicio-6/index.js",
+    "start-ex7": "tsc && node build/exercicio-7/index.js",
+    "start-ex8": "tsc && node build/exercicio-8/index.js",
+    "start-ex9": "tsc && node build/exercicio-9/index.js",
+    "start-ex10": "tsc && node build/exercicio-10/index.js",
+    "start-ex11": "tsc && node build/exercicio-11/index.js"
+  },
+  "author": "vinicius peres",
+  "license": "ISC"
+}
