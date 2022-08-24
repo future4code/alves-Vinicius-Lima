@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "aprofundamento-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-ex1": "tsc && node build/exercicio-1/index.js",
+    "start-ex2": "tsc && node build/exercicio-2/index.js",
+    "start-ex3": "tsc && node build/exercicio-3/index.js",
+    "start-ex4": "tsc && node build/exercicio-4/index.js",
+    "start-ex5": "tsc && node build/exercicio-5/index.js"
+  },
+  "author": "vinicius peres",
+  "license": "ISC"
+}
